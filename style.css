@@ -14,7 +14,7 @@
     max-width: 50vh;
     max-height: 50vh;
     border-radius: 12px;
-    background: #450135;
+    background: #64a19d;
     justify-content: center;
     align-content: center;
     text-align: center;
@@ -35,7 +35,7 @@
     text-transform: uppercase;
     letter-spacing: 0.15rem;
     border: 0;
-    background: #f75eee;
+    background: #426967;
     color: #f7e5f5;
     font-size: 1.1rem;
     border-radius: 12px;
@@ -43,14 +43,15 @@
   }
 
   .btn:hover {
-    color: #450135;
+    color: #1c2e2d;
   }
 
   .input_style {
     background: #f7e5f5;
-    color: #450135;
+    color: #64a19d;
     max-width: 100%;
     border-radius: 6px;
+    border-color: #64a19d;
   }
 
 
