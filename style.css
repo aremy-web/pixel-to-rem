@@ -1,0 +1,60 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: Gotham Rounded, sans-serif;
+    font-weight: normal;
+  }
+  
+ 
+  /*CSS converter start*/
+  .rem_converter {
+    padding: 20px;
+    margin: 10px;
+    width: auto;
+    height: auto;
+    max-width: 50vh;
+    max-height: 50vh;
+    border-radius: 12px;
+    background: #450135;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    color: #f7e5f5;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
+  }
+
+  .mt {
+    margin-top: 1.5rem !important;
+  }
+
+  .btn {
+    box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
+    font-size: 60%;
+    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.15rem;
+    border: 0;
+    background: #f75eee;
+    color: #f7e5f5;
+    font-size: 1.1rem;
+    border-radius: 12px;
+    cursor: pointer;
+  }
+
+  .btn:hover {
+    color: #450135;
+  }
+
+  .input_style {
+    background: #f7e5f5;
+    color: #450135;
+    max-width: 100%;
+    border-radius: 6px;
+  }
+
+
+
+  /*CSS converter stops*/
+
+ 
